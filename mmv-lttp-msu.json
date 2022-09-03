@@ -11,151 +11,126 @@
             "track_number": 1,
             "title": "Title",
             "file": "RushJet1 - Mega Man V Remade - 03 Title.mp3",
-            "trim_end": 1183203,
-            "fade_out": 12050,
-            "_LoopsAtSeconds":26,
-            "_LoopsTo":0
+            "trim_end": 1174933
         },
         {
             "track_number": 2,
             "title": "Spaaace",
             "file": "RushJet1 - Mega Man V Remade - 25 Spaaace.mp3",
-            "trim_end": 1700353,
-            "loop": 257973,
-            "fade_out": 16050,
-            "_loopsAtSeconds":38,
-            "_LoopsTo":5,
-            "_notes": "loop isn't great - fades out slightly early, comes in slightly early - end +10000, loop +5000 -- loop +2000"
+            "trim_end": 1689493,
+            "loop": 283423
         },
         {
             "track_number": 3,
             "title": "Light's Lab 1",
             "file": "RushJet1 - Mega Man V Remade - 05 Light's Lab 1.mp3",
-            "trim_end": 1135486,
-            "loop": 844206,
-            "fade_out": 6050
+            "trim_end": 1127958,
+            "loop": 845749
         },
         {
             "track_number": 4,
             "title": "Skull Blazer",
             "file": "RushJet1 - Mega Man V Remade - 26 Skull Blazer.mp3",
-            "trim_end": 1904326,
-            "fade_out": 6050,
-            "loop": 17640
+            "trim_end": 1890534,
+            "loop": 18308
         },
         {
             "track_number": 5,
+            "title" : "Intro",
             "file": "RushJet1 - Mega Man V Remade - 01 Intro.mp3",
-            "loop":119188,
-            "trim_end":618605,
-            "fade_out":12050
+            "loop":620101,
+            "trim_end":1122091
         },
         {
             "track_number": 6,
             "title": "Light's Lab 1",
             "file": "RushJet1 - Mega Man V Remade - 05 Light's Lab 1.mp3",
-            "trim_end": 1135486,
-            "loop": 844206,
-            "fade_out": 6050
+            "trim_end": 1127958,
+            "loop": 845749
         },
         {
             "track_number": 7,
             "title": "Light's Lab 2",
             "file": "RushJet1 - Mega Man V Remade - 06 Light's Lab 2.mp3",
-            "trim_end": 700749,
-            "loop":130008,
-            "fade_out": 12050,
-            "_notes": "loop to later - +2000+1000"
+            "trim_end": 705149,
+            "loop":141808
         },
         {
             "track_number": 8,
             "title": "Stage Start",
             "file": "RushJet1 - Mega Man V Remade - 08 Stage Start.mp3",
-            "trim_end" : 220500
+            "trim_end" : 258000,
+            "trim_start": 18347
         },
         {
             "track_number": 9,
             "title": "Pluto Main",
             "file": "RushJet1 - Mega Man V Remade - 22 Pluto.mp3",
             "trim_start":2801530,
-            "trim_end": 7298550,
-            "fade_out":22050,
-            "_notes": "pushed trim start ahead a little"
+            "trim_end": 7304050
         },
         {
             "track_number": 10,
             "title": "Get Weapon",
             "file": "RushJet1 - Mega Man V Remade - 15 Get Weapon.mp3",
-            "trim_start": 66150,
-            "trim_end": 551250
+            "trim_start": 71363,
+            "trim_end": 571250
         },
         {
             "track_number": 11,
             "title": "Password",
             "file": "RushJet1 - Mega Man V Remade - 04 Password.mp3",
-            "trim_end": 668115,
-            "fade_out": 12050
+            "trim_end": 661115,
+            "fade_out": 1050
         },
         {
             "track_number": 12,
             "title": "Terra",
             "file": "RushJet1 - Mega Man V Remade - 02 Terra's Arrival.mp3",
-            "trim_end": 1680210,
-            "loop": 277830,
-            "fade_out": 12050,
-            "_notes": "loop is choppy but good - added fade"
+            "trim_end": 1691149,
+            "loop": 281830
         },
         {
             "track_number": 13,
             "title": "Wily Star 2",
             "file": "RushJet1 - Mega Man V Remade - 29 Wily Star 2.mp3",
-            "trim_end": 2823580,
-            "fade_out": 6050,
-            "_notes": "tweaking delay, mostly good"
+            "trim_end": 2818675,
+            "trim_start":1000
         },
         {
             "track_number": 14,
             "title": "Stage Select",
             "file": "RushJet1 - Mega Man V Remade - 07 Stage Select.mp3",
             "trim_end": 1433250,
-            "fade_out":12050,
-            "loop": 23550,
-            "_notes": "loop needed to eliminate the opening noise - added loop - added another 1500"
+            "loop": 23550
         },
         {
             "track_number": 15,
-            "title": "intro",
             "title": "Wily Star 4",
             "file": "RushJet1 - Mega Man V Remade - 33 Wily Star 4.mp3",
             "trim_end": 1962891,
-            "loop":277830,
-            "fade_out": 6050,
-            "_notes":"works, tweaking fade delay - even less fade"
+            "loop":277830
         },
         {
             "track_number": 16,
             "title": "Jupiter",
             "file": "RushJet1 - Mega Man V Remade - 19 Jupiter.mp3",
             "trim_end": 2256949,
-            "loop": 423360,
-            "fade_out":11050
+            "loop": 423360
         },
         {
             "track_number": 17,
-            "title": "Mars",
-            "file": "RushJet1 - Mega Man V Remade - 09 Mars.mp3",
-            "trim_end": 3536820,
-            "fade_out":6050,
-            "_notes":"good, tweak fade"
-            
+            "title": "Mercury",
+            "file": "RushJet1 - Mega Man V Remade - 10 Mercury.mp3",
+            "loop": 810999,
+            "trim_end" : 4191705
         },
         {
             "track_number": 18,
             "title": "Pluto Intro",
             "file": "RushJet1 - Mega Man V Remade - 22 Pluto.mp3",
             "trim_end":2704200,
-            "fade_out":6050,
-            "_notes":"fade out and loop before it kicks into the second part - removed 10000 from both trimend and fade, added fadein except that broke the build - removed 20000 from end and cut fade"
+            "fade_out":6050
         },
         {
             "track_number": 19,
@@ -166,25 +141,22 @@
             "track_number": 20,
             "title": "Light's Lab 1",
             "file": "RushJet1 - Mega Man V Remade - 05 Light's Lab 1.mp3",
-            "trim_end": 1135486,
-            "loop": 844206,
-            "fade_out":6050
+            "trim_end": 1127958,
+            "loop": 845749
         },
         {
             "track_number": 21,
             "title": "Stardroid Battle",
             "file": "RushJet1 - Mega Man V Remade - 13 Stardroid Battle.mp3",
-            "trim_end": 1005176,
-            "loop": 136269,
-            "fade_out":22050
+            "trim_end": 986176,
+            "loop": 141269
         },
         {
             "track_number": 22,
             "title": "Saturn",
             "file": "RushJet1 - Mega Man V Remade - 20 Saturn.mp3",
-            "trim_end": 5087078,
-            "loop": 1033704,
-            "fade_out":12050
+            "trim_end": 5072698,
+            "loop": 1033704
         },
         {
             "track_number": 23,
@@ -195,10 +167,10 @@
         },
         {
             "track_number": 24,
+            "title": "Pluto Intro",
             "file": "RushJet1 - Mega Man V Remade - 22 Pluto.mp3",
             "trim_end":2704200,
-            "fade_out":6050,
-            "_notes":"fade out and loop before it kicks into the second part - removed 10000 from both trimend and fade, added fadein except that broke the build - removed 20000 from end and cut fade"
+            "fade_out":6050
         },
         {
             "track_number": 25,
@@ -218,17 +190,15 @@
             "track_number": 27,
             "title": "Skull Blazer",
             "file": "RushJet1 - Mega Man V Remade - 26 Skull Blazer.mp3",
-            "trim_end": 1904326,
-            "fade_out": 6050,
-            "loop": 17640,
-            "_loopsAtSeconds":43
+            "trim_end": 1890534,
+            "loop": 18308
         },
         {
             "track_number": 28,
-            "title": "Dread",
-            "file": "RushJet1 - Mega Man V Remade - 24 Dread.mp3",
-            "trim_end": 469224,
-            "fade_out": 12050
+            "title": "Dark Moon Platform",
+            "file": "RushJet1 - Mega Man V Remade - 16 Dark Moon's Platform.mp3",
+            "trim_end":3757761,
+            "loop":1878660
         },
         {
             "track_number": 29,
@@ -240,148 +210,126 @@
             "track_number": 30,
             "title": "Dread",
             "file": "RushJet1 - Mega Man V Remade - 24 Dread.mp3",
-            "trim_end": 469224,
-            "fade_out": 12050
+            "trim_end": 469224
         },
         {
             "track_number": 31,
             "title": "Sunstar",
             "file": "RushJet1 - Mega Man V Remade - 38 Sunstar.mp3",
             "loop": 142002,
-            "trim_end": 2989980,
-            "fade_out": 6050
+            "trim_end": 2989980
         },
         {
             "track_number": 32,
-            "title": "Intro",
+            "title": "Victory",
             "file": "RushJet1 - Mega Man V Remade - 39 Victory.mp3"
         },
         {
             "track_number": 33,
             "title": "Ending",
-            "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3",
-            "trim_end": 2711709,
-            "loop": 639891,
-            "fade_out": 12050
+            "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3"
         },
         {
             "track_number": 34,
             "title": "Punk",
-            "file": "RushJet1 - Mega Man V Remade - 32 Punk.mp3",
-            "loop": 58212,
-            "fade_out": 6050,
-            "trim_end": 998865
+            "file": "RushJet1 - Mega Man V Remade - 32 Punk.mp3"
         },
         {
             "track_number": 35,
             "title": "Mercury",
             "file": "RushJet1 - Mega Man V Remade - 10 Mercury.mp3",
             "loop": 810999,
-            "fade_out": 6050,
-            "trim_end" : 4191705,
-            "_notes": "pretty good, just cutting the fade down - cut the fade even more"
+            "trim_end" : 4191705
         },
         {
             "track_number": 36,
             "title": "Mars",
             "file": "RushJet1 - Mega Man V Remade - 09 Mars.mp3",
-            "trim_end": 3536820,
-            "fade_out":6050
+            "trim_end": 3523242
         },
         {
             "track_number": 37,
             "title": "Wily Star 2",
             "file": "RushJet1 - Mega Man V Remade - 29 Wily Star 2.mp3",
-            "trim_end": 2823580,
-            "fade_out": 6050,
-            "_notes": "tweaking delay, mostly good"
+            "trim_end": 2818675,
+            "trim_start":1000
         },
         {
             "track_number": 38,
             "title": "Venus",
             "file": "RushJet1 - Mega Man V Remade - 11 Venus.mp3",
             "trim_end": 5065767,
-            "fade_out":6050,
             "loop": 1966419
         },
         {
             "track_number": 39,
-            "title": "Dark Moon Platform",
-            "file": "RushJet1 - Mega Man V Remade - 16 Dark Moon's Platform.mp3",
-            "trim_end":3757761,
-            "fade_out":10050,
-            "loop":1878660
+            "title": "Uranus",
+            "file": "RushJet1 - Mega Man V Remade - 21 Uranus.mp3",
+            "loop": 863478,
+            "trim_end": 3399669
         },
         {
             "track_number": 40,
             "title": "Saturn",
             "file": "RushJet1 - Mega Man V Remade - 20 Saturn.mp3",
-            "trim_end": 5087078,
-            "loop": 1033704,
-            "fade_out":12050
+            "trim_end": 5072698,
+            "loop": 1033704
         },
         {
             "track_number": 41,
             "title": "Saturn",
             "file": "RushJet1 - Mega Man V Remade - 20 Saturn.mp3",
-            "trim_end": 5087078,
-            "loop": 1033704,
-            "fade_out":12050
+            "trim_end": 5072698,
+            "loop": 1033704
         },
         {
             "track_number": 42,
             "title": "Neptune",
             "file": "RushJet1 - Mega Man V Remade - 12 Neptune.mp3",
             "trim_end": 4410000,
-            "fade_out":1050
+            "loop": 141645
         },
         {
             "track_number": 43,
-            "title": "Mars",
-            "file": "RushJet1 - Mega Man V Remade - 09 Mars.mp3",
-            "trim_end": 3536820,
-            "fade_out":6050
+            "title": "Mercury",
+            "file": "RushJet1 - Mega Man V Remade - 10 Mercury.mp3",
+            "loop": 810999,
+            "trim_end" : 4191705
         },
         {
             "track_number": 44,
             "title": "Saturn",
             "file": "RushJet1 - Mega Man V Remade - 20 Saturn.mp3",
-            "trim_end": 5087078,
-            "loop": 1033704,
-            "fade_out":12050
-
+            "trim_end": 5072698,
+            "loop": 1033704
         },
         {
             "track_number": 45,
             "title": "Uranus",
             "file": "RushJet1 - Mega Man V Remade - 21 Uranus.mp3",
             "loop": 863478,
-            "trim_end": 3399669,
-            "fade_out":11050
+            "trim_end": 3399669
         },
         {
             "track_number": 46,
             "title": "Wily Star 1",
             "file": "RushJet1 - Mega Man V Remade - 27 Wily Star 1.mp3",
             "trim_end": 3100230,
-            "fade_out":6050,
             "loop": 281358
         },
         {
             "track_number": 47,
             "title": "Stardroid Battle",
             "file": "RushJet1 - Mega Man V Remade - 13 Stardroid Battle.mp3",
-            "trim_end": 1005176,
-            "loop": 136269,
-            "fade_out":22050
+            "trim_end": 986176,
+            "loop": 141269
         },
         {
             "track_number": 48,
             "title": "Stardroid Battle",
             "file": "RushJet1 - Mega Man V Remade - 13 Stardroid Battle.mp3",
-            "trim_end": 1005176,
-            "loop": 136269,
-            "fade_out":22050
+            "trim_end": 986176,
+            "loop": 141269
         },
         {
             "track_number": 49,
@@ -392,64 +340,56 @@
             "track_number": 50,
             "title": "Stardroid Battle",
             "file": "RushJet1 - Mega Man V Remade - 13 Stardroid Battle.mp3",
-            "trim_end": 1005176,
-            "loop": 136269,
-            "fade_out":22050
+            "trim_end": 986176,
+            "loop": 141269
         },
         {
             "track_number": 51,
             "title": "Punk",
             "file": "RushJet1 - Mega Man V Remade - 32 Punk.mp3",
             "loop": 58212,
-            "fade_out": 6050,
             "trim_end": 998865
         },
         {
             "track_number": 52,
             "title": "Ballade",
             "file": "RushJet1 - Mega Man V Remade - 34 Ballade.mp3",
-            "trim_end":2111949,
-            "fade_out": 6050,
+            "trim_end":2114014,
             "loop": 474516
         },
         {
             "track_number": 53,
             "title": "Stardroid Battle",
             "file": "RushJet1 - Mega Man V Remade - 13 Stardroid Battle.mp3",
-            "trim_end": 1005176,
-            "loop": 136269,
-            "fade_out":22050
+            "trim_end": 986176,
+            "loop": 141269
         },
         {
             "track_number": 54,
             "title": "Ballade",
             "file": "RushJet1 - Mega Man V Remade - 34 Ballade.mp3",
-            "trim_end":2111949,
-            "fade_out": 6050,
+            "trim_end":2114014,
             "loop": 474516
         },
         {
             "track_number": 55,
             "title": "Stardroid Battle",
             "file": "RushJet1 - Mega Man V Remade - 13 Stardroid Battle.mp3",
-            "trim_end": 1005176,
-            "loop": 136269,
-            "fade_out":22050
+            "trim_end": 986176,
+            "loop": 141269
         },
         {
             "track_number": 56,
             "title": "Enker",
             "file": "RushJet1 - Mega Man V Remade - 28 Enker.mp3",
             "loop":351918,
-            "fade_out":22050,
-            "trim_end": 1479996
+            "trim_end": 1480000
         },
         {
             "track_number": 57,
             "title": "Quint",
             "file": "RushJet1 - Mega Man V Remade - 30 Quint.mp3",
             "trim_end": 1478673,
-            "fade_out":22050,
             "loop": 493479
         },
         {
@@ -459,10 +399,10 @@
         },
         {
             "track_number": 59,
-            "title": "Boss Rush",
-            "file": "RushJet1 - Mega Man V Remade - 36 Boss Rush.mp3",
-            "trim_end":6689970,
-            "fade_out":6050
+            "title": "Wily Star 1",
+            "file": "RushJet1 - Mega Man V Remade - 27 Wily Star 1.mp3",
+            "trim_end": 3100230,
+            "loop": 281358
         }
     ]
 }
