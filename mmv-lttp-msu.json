@@ -135,7 +135,19 @@
         {
             "track_number": 19,
             "title": "Fanfare",
-            "file": "RushJet1 - Mega Man V Remade - 1415 - Fanfare and Weapon Get for LTTP.mp3"
+            "old_file": "RushJet1 - Mega Man V Remade - 1415 - Fanfare and Weapon Get for LTTP.mp3",
+            "sub_tracks" : [
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 14 Fanfare.mp3",
+                    "trim_start": 18504,
+                    "trim_end": 141725
+                },
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 15 Get Weapon.mp3",
+                    "trim_start": 71396,
+                    "trim_end" :635105
+                }
+            ]
         },
         {
             "track_number": 20,
@@ -222,17 +234,71 @@
         {
             "track_number": 32,
             "title": "Victory",
-            "file": "RushJet1 - Mega Man V Remade - 39 Victory.mp3"
+            "old_file": "RushJet1 - Mega Man V Remade - 39 Victory.mp3",
+            "sub_tracks" : [
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 39 Victory.mp3"
+                },
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 15 Get Weapon.mp3",
+                    "trim_start": 71396,
+                    "trim_end" :635105
+                }
+            ]
         },
         {
             "track_number": 33,
             "title": "Ending",
-            "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3"
+            "sub_tracks" : [
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3",
+                    "trim_start": 18504,
+                    "trim_end": 4778831
+                },
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3",
+                    "trim_start": 645747,
+                    "trim_end" :4778831
+                },
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3",
+                    "trim_start": 645747,
+                    "trim_end" :4778831
+                }
+            ]
         },
         {
             "track_number": 34,
-            "title": "Punk",
-            "file": "RushJet1 - Mega Man V Remade - 32 Punk.mp3"
+            "title": "MM2 Theme",
+            "sub_tracks" : [
+                {
+                    "file": "RushJet1 - Mega Man 2 Remade - Title.mp3",
+                    "trim_end": 1409827
+                },
+                {
+                    "file": "RushJet1 - Mega Man 2 Remade - Title.mp3",
+                    "trim_end" : 1409827
+                },
+                {
+                    "file": "RushJet1 - Mega Man 2 Remade - Title.mp3",
+                    "trim_end": 1409827
+                },
+                {
+                    "file": "RushJet1 - Mega Man 2 Remade - Title.mp3",
+                    "trim_end": 1409827
+                },
+                {
+                    "file": "RushJet1 - Mega Man 2 Remade - Title.mp3",
+                    "trim_end": 1409827
+                },
+                {
+                    "file": "RushJet1 - Mega Man 2 Remade - Title.mp3",
+                    "trim_end" : 1409827
+                },
+                {
+                    "file": "RushJet1 - Mega Man V Remade - 40 Ending.mp3"
+                }
+            ]
         },
         {
             "track_number": 35,
