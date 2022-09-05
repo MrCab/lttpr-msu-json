@@ -6,9 +6,9 @@ Track List - http://alttp.mymm1.com/wiki/Soundtrack
 These should all follow the schema - https://github.com/qwertymodo/msupcmplusplus/blob/master/configs/schema
 
 
-## To Do
-* Replace custom track for Crystal-Get with the JSON appropriate combination of the two tracks
-* Fix the endings 
-* * Triforce Screen should go from Victory Fanfare into Weapon Get
-* * Main ending should be cut to appropriate time
-* * Credits should play to MM IV Mega Man Theme
+# To Get The Music
+
+Uses Mega Man V Remde by Rushjet1 , and a single track from Mega Man 2 Remade by Rushjet1 (the title screen)
+
+* https://rushjet1.com/album/mega-man-v-remade
+* MM2 Title - https://rushjet1.com/track/title-3
